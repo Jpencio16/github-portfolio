@@ -1,6 +1,4 @@
-![Alt Text](![img20230413_12503419 (2)](https://github.com/Jpencio16/github-portfolio/assets/164824705/d73515a4-835b-4d3d-b17d-55bbd639919e)
-)
-
+(![img20230413_12503419 (2)](https://github.com/Jpencio16/github-portfolio/assets/164824705/d73515a4-835b-4d3d-b17d-55bbd639919e)
 
 This is a simple portfolio website showcasing my projects and skills.
 
