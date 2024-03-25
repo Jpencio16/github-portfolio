@@ -1,4 +1,5 @@
-!(https://github.com/Jpencio16/github-portfolio/assets/164824705/1e319e37-489d-4920-afc7-ec066e7193b0)
+![1](https://github.com/Jpencio16/github-portfolio/assets/164824705/5601c10f-479d-4e7d-a6ac-3b51bdb65548)
+
 
 
 This is a simple portfolio website showcasing my projects and skills.
