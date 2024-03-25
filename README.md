@@ -1,4 +1,5 @@
-# Portfolio
+![Alt Text](image-url)
+
 
 This is a simple portfolio website showcasing my projects and skills.
 
