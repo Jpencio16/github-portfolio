@@ -9,7 +9,6 @@ This is a simple portfolio website showcasing my projects and skills.
 - [About](#about)
 - [Projects](#projects)
 - [Contact](#contact)
-- [License](#license)
 
 ## About
 
